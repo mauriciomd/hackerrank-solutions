@@ -10,6 +10,7 @@
 
 ### Problems
 
-| **Day** | **Name**                                                                                                                                                                | **Solution**                                                                             |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 1       | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Link](https://github.com/mauriciomd/hackerrank-solutions/blob/master/new-year-chaos.py) |
+| **Day** | **Name**                                                                                                                                                                | **Solution**                                                                              |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 1       | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Link](https://github.com/mauriciomd/hackerrank-solutions/blob/master/new-year-chaos.py)  |
+| 2       | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)                                                          | [Link](https://github.com/mauriciomd/hackerrank-solutions/blob/master/cycle-detection.py) |
