@@ -16,3 +16,4 @@
 | 2       | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)                                                          | [Link](https://github.com/mauriciomd/hackerrank-solutions/blob/master/cycle-detection.py) |
 | 3 | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Link](https://github.com/mauriciomd/hackerrank-solutions/blob/master/balanced-brackets.py)
 | 4 | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) | [Link](https://github.com/mauriciomd/hackerrank-solutions/blob/master/tree-huffman-decoding.py)
+| 5 | [Counter Game](https://www.hackerrank.com/challenges/counter-game/problem) | [Link](https://github.com/mauriciomd/hackerrank-solutions/blob/master/counter-game.py)
